@@ -1,1 +1,0 @@
-This is a sample theme that turns the QAM black

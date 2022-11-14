@@ -1,0 +1,11 @@
+{
+	"name": "System Blur",
+	"version": "v1.0",
+	"author": "SeanZhang",
+	"manifest_version": 1,
+	"target": "System-Wide",
+	"description": "Adds a frosted glass effect to various UI elements. Includes ProtonDB Badges support.",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}

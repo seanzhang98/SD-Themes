@@ -1,0 +1,64 @@
+/* Top Bar */
+#header {
+	backdrop-filter: blur(8px);
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+/* Footer */
+#Footer {
+	backdrop-filter: blur(8px);
+	background-color: rgba(0, 0, 0, 0.25);
+}
+
+:root {
+    --custom-footer-opacity: 0 !important;
+}
+
+/* Verified Badges */
+.shared_svg_library_SteamDeckCompatInfo_2LcFI {
+	backdrop-filter: blur(8px);
+	background-color: #0e141b87;
+}
+
+/* ProtonDB Badges */
+/* !important needed due to load order of protondb-decky changing randomly */
+.protondb-decky-indicator {
+	backdrop-filter: blur(8px);
+	border-radius: 2px;
+}
+
+.protondb-decky-indicator-platinum {
+	background: rgba(180, 199, 220, 0.35)!important;
+}
+
+.protondb-decky-indicator-gold {
+	background: rgba(207, 181, 59, 0.35)!important;
+}
+
+.protondb-decky-indicator-silver {
+	background: rgba(166, 166, 166, 0.35)!important;
+}
+
+.protondb-decky-indicator-bronze {
+	background: rgba(205, 127, 50, 0.35)!important;
+}
+
+.protondb-decky-indicator-borked {
+	background: rgba(255, 0, 0, 0.35)!important;
+}
+
+/* Volume Panel */
+.audio_VolumePopin_2iUUM {
+	backdrop-filter: blur(8px);
+	background-color: #23262ebf;
+	border-radius: 5px;
+	box-shadow: 1px 1px 5px rgb(0 0 0 / 50%);
+}
+
+.gamepadslider_SliderTrackDark_3UIUD {
+	background: #00000045;
+}
+
+.gamepadslider_SliderTrack_Mq25N::before {
+	opacity: 0.5;
+}
