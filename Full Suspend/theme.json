@@ -1,0 +1,11 @@
+{
+	"name": "Full Suspend",
+	"version": "v1.0",
+	"author": "SeanZhang",
+	"manifest_version": 1,
+	"target": "System-Wide",
+	"description": "Full Suspen",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}
