@@ -1,4 +1,16 @@
+.powermenu_SuspendDialog_3579b{
+    flex-grow: 1;
+    width: 0100%;
+    height: 0100%;
+}
+
 .powermenu_SuspendVideo_s11wN{
+    flex-grow: 1;
+    width: 0100%;
+    height: 0100%;
+}
+
+.powermenu_SuspendDialog_3579b .powermenu_SuspendVideo_s11wN{
     flex-grow: 1;
     width: 0100%;
     height: 0100%;

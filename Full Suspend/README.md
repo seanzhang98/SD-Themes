@@ -1,1 +1,1 @@
-Adds a frosted glass effect to various UI elements. Includes ProtonDB Badges support.
+Force fullscreen supension animation. Works with the Animation Changer Plugin.

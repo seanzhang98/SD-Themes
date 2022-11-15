@@ -4,7 +4,7 @@
 	"author": "SeanZhang",
 	"manifest_version": 1,
 	"target": "System-Wide",
-	"description": "Full Suspen",
+	"description": "Force fullscreen supension animation. Works with the Animation Changer Plugin.",
 	"inject": {
 		"shared.css": ["SP"]
 	}
