@@ -1,0 +1,1 @@
+Remove Shine animation for the play button.

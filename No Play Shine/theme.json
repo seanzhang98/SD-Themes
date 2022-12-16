@@ -1,0 +1,11 @@
+{
+	"name": "No Play Shine",
+	"version": "v1.0",
+	"author": "SeanZhang",
+	"manifest_version": 1,
+	"target": "System-Wide",
+	"description": "Remove Shine animation for the play button",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}
