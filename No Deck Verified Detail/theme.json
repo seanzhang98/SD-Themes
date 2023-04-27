@@ -1,0 +1,11 @@
+{
+	"name": "No Deck Verified Detail",
+	"version": "v1.0",
+	"author": "SeanZhang",
+	"manifest_version": 1,
+	"target": "System-Wide",
+	"description": "Remove the deck verified icon on the game detail tab.",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}

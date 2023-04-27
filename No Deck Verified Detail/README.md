@@ -1,0 +1,1 @@
+Remove the deck verified icon on the game detail tab.
