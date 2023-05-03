@@ -1,0 +1,11 @@
+{
+	"name": "SoundTrack UI Fix",
+	"version": "v1.0",
+	"author": "SeanZhang",
+	"manifest_version": 1,
+	"target": "System-Wide",
+	"description": "This Fix the UI problem if you are using other themes like Blur。",
+	"inject": {
+		"shared.css": ["SP"]
+	}
+}

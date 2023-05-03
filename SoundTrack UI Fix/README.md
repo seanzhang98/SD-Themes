@@ -1,0 +1,1 @@
+This Fix the UI problem if you are using other themes like Blur。
